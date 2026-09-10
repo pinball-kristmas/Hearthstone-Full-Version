@@ -1,0 +1,1 @@
+# Hearthstone-Full-Version
