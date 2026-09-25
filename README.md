@@ -245,4 +245,4 @@ This repository serves as the official landing page for Hearthstone. The softwar
 **Get the most recent version of Hearthstone today!**
 
 ---
-**Last updated:** 2026-09-25 05:49:19 UTC
+**Last updated:** 2026-09-25 11:10:55 UTC
